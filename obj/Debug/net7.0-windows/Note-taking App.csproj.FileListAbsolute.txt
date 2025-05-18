@@ -1,0 +1,38 @@
+/home/runner/workspace/Note-taking App/obj/Debug/net7.0-windows/Note-taking App.csproj.AssemblyReference.cache
+/home/runner/workspace/Note-taking App/obj/Debug/net7.0-windows/NoteTakingApp.NoteForm.resources
+/home/runner/workspace/Note-taking App/obj/Debug/net7.0-windows/NoteTakingApp.Properties.Resources.resources
+/home/runner/workspace/Note-taking App/obj/Debug/net7.0-windows/Note-taking App.csproj.GenerateResource.cache
+/home/runner/workspace/Note-taking App/obj/Debug/net7.0-windows/Note-taking App.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/Note-taking App/obj/Debug/net7.0-windows/Note-taking App.csproj.CoreCompileInputs.cache
+/home/runner/workspace/Note-taking App/bin/Debug/net7.0-windows/Note-taking App
+/home/runner/workspace/Note-taking App/bin/Debug/net7.0-windows/Note-taking App.dll.config
+/home/runner/workspace/Note-taking App/bin/Debug/net7.0-windows/Note-taking App.deps.json
+/home/runner/workspace/Note-taking App/bin/Debug/net7.0-windows/Note-taking App.runtimeconfig.json
+/home/runner/workspace/Note-taking App/bin/Debug/net7.0-windows/Note-taking App.dll
+/home/runner/workspace/Note-taking App/bin/Debug/net7.0-windows/Note-taking App.pdb
+/home/runner/workspace/Note-taking App/bin/Debug/net7.0-windows/Newtonsoft.Json.dll
+/home/runner/workspace/Note-taking App/obj/Debug/net7.0-windows/Note-taking App.csproj.CopyComplete
+/home/runner/workspace/Note-taking App/obj/Debug/net7.0-windows/Note-taking App.dll
+/home/runner/workspace/Note-taking App/obj/Debug/net7.0-windows/refint/Note-taking App.dll
+/home/runner/workspace/Note-taking App/obj/Debug/net7.0-windows/Note-taking App.pdb
+/home/runner/workspace/Note-taking App/obj/Debug/net7.0-windows/Note-taking App.genruntimeconfig.cache
+/home/runner/workspace/Note-taking App/obj/Debug/net7.0-windows/ref/Note-taking App.dll
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\bin\Debug\net7.0-windows\Note-taking App.exe
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\bin\Debug\net7.0-windows\Note-taking App.dll.config
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\bin\Debug\net7.0-windows\Note-taking App.deps.json
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\bin\Debug\net7.0-windows\Note-taking App.runtimeconfig.json
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\bin\Debug\net7.0-windows\Note-taking App.dll
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\bin\Debug\net7.0-windows\Note-taking App.pdb
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\obj\Debug\net7.0-windows\Note-taking App.csproj.AssemblyReference.cache
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\obj\Debug\net7.0-windows\NoteTakingApp.NoteForm.resources
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\obj\Debug\net7.0-windows\NoteTakingApp.Properties.Resources.resources
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\obj\Debug\net7.0-windows\Note-taking App.csproj.GenerateResource.cache
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\obj\Debug\net7.0-windows\Note-taking App.GeneratedMSBuildEditorConfig.editorconfig
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\obj\Debug\net7.0-windows\Note-taking App.csproj.CoreCompileInputs.cache
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\obj\Debug\net7.0-windows\Note-tak.B4ECD113.Up2Date
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\obj\Debug\net7.0-windows\Note-taking App.dll
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\obj\Debug\net7.0-windows\refint\Note-taking App.dll
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\obj\Debug\net7.0-windows\Note-taking App.pdb
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\obj\Debug\net7.0-windows\Note-taking App.genruntimeconfig.cache
+I:\Classes and Assignments\4th 2nd\App Design\Note-taking-App\Note-taking-App\Note-taking App\obj\Debug\net7.0-windows\ref\Note-taking App.dll

@@ -1,0 +1,4 @@
+/home/runner/workspace/Note-taking App/obj/Debug/net7.0/Note-taking App.csproj.AssemblyReference.cache
+/home/runner/workspace/Note-taking App/obj/Debug/net7.0/NoteTakingApp.NoteForm.resources
+/home/runner/workspace/Note-taking App/obj/Debug/net7.0/NoteTakingApp.Properties.Resources.resources
+/home/runner/workspace/Note-taking App/obj/Debug/net7.0/Note-taking App.csproj.GenerateResource.cache
